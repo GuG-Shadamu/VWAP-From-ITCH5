@@ -2,7 +2,7 @@
  * @Author: Tairan Gao
  * @Date:   2024-02-10 13:47:35
  * @Last Modified by:   Tairan Gao
- * @Last Modified time: 2024-02-11 15:10:06
+ * @Last Modified time: 2024-02-13 12:47:54
  */
 
 
@@ -14,7 +14,7 @@
 
 #include "Utility.h"
 
-namespace GtrTrex {
+namespace GuG {
 
     class ItchMessage {
     public:

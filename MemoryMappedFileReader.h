@@ -2,7 +2,7 @@
  * @Author: Tairan Gao
  * @Date:   2024-02-10 12:34:19
  * @Last Modified by:   Tairan Gao
- * @Last Modified time: 2024-02-11 15:10:17
+ * @Last Modified time: 2024-02-13 12:47:54
  */
 
 #ifndef MEMORY_MAPPED_FILE_READER_H
@@ -14,7 +14,7 @@
 #include <unistd.h>   // For close
 #include <stdexcept>
 
-namespace GtrTrex {
+namespace GuG {
     class MemoryMappedFileReader {
     public:
         MemoryMappedFileReader(const char* filepath) {

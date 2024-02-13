@@ -2,7 +2,7 @@
  * @Author: Tairan Gao
  * @Date:   2024-02-10 12:22:36
  * @Last Modified by:   Tairan Gao
- * @Last Modified time: 2024-02-11 17:15:48
+ * @Last Modified time: 2024-02-13 12:48:21
  */
 
 #include <iostream>
@@ -20,7 +20,7 @@
 #include "ThreadSafeQueue.h"
 #include "MemoryMappedFileReader.h"
 
-using namespace GtrTrex;
+using namespace GuG;
 
 void readDataIntoQueue(MemoryMappedFileReader& reader, ThreadSafeQueue<std::unique_ptr<ItchMessage>>& queue)
 {

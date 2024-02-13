@@ -2,7 +2,7 @@
  * @Author: Tairan Gao
  * @Date:   2024-02-10 12:26:11
  * @Last Modified by:   Tairan Gao
- * @Last Modified time: 2024-02-11 15:12:29
+ * @Last Modified time: 2024-02-13 12:47:54
  */
 
 #ifndef THREAD_SAFE_QUEUE_H
@@ -12,7 +12,7 @@
 #include <queue>
 #include <condition_variable>
 
-namespace GtrTrex {
+namespace GuG {
 
     template<typename T>
     class ThreadSafeQueue {

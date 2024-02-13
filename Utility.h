@@ -2,7 +2,7 @@
  * @Author: Tairan Gao
  * @Date:   2024-02-10 15:08:25
  * @Last Modified by:   Tairan Gao
- * @Last Modified time: 2024-02-11 15:10:43
+ * @Last Modified time: 2024-02-13 12:47:54
  */
 #ifndef UTILITY_H
 #define UTILITY_H
@@ -13,7 +13,7 @@
 #include <cctype>
 #include <iostream>
 
-namespace GtrTrex {
+namespace GuG {
     // Helper for byte swapping
     template<typename T>
     T swap_endian(T u);
