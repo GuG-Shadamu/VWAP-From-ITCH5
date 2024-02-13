@@ -7,8 +7,7 @@
 This project provides a C++ application designed to read ITCH 5.0 format stock market data, process the trades, and calculate the Volume Weighted Average Price (VWAP) for each stock listed on an exchange for every hour of trading. The program outputs the VWAP calculations to a CSV file for further analysis or review.
 
 - Raw ITCH 5.0 data downloaded from [here](https://emi.nasdaq.com/ITCH/Nasdaq%20ITCH/01302019.NASDAQ_ITCH50.gz)
-- Format is defined by this [document](https://www.nasdaqtrader.com/content/technicalsupport/specifications/dataproducts/NQ
-TVITCHspecification.pdf)
+- Format is defined by this [document](https://www.nasdaqtrader.com/content/technicalsupport/specifications/dataproducts/NQTVITCHspecification.pdf)
 
 
 ## Dependencies
